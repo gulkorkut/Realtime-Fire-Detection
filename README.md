@@ -1,19 +1,12 @@
-
-```markdown
 # Fire Detection Using CNN
 
 ## About
 This project implements a Convolutional Neural Network (CNN) to detect fire in images and video streams. The model is trained on a custom dataset, utilizing image augmentation techniques to improve performance.
 
-![Fire Detection Example](testedimage.png)
-
 ## Features
 - Image classification of fire and neutral conditions.
 - Real-time video analysis for fire detection.
 - Visualization of training and validation accuracy/loss.
-
-## Video Demonstration
-[Watch the video demonstration](tested_video.gif)
 
 ## Requirements
 - TensorFlow
